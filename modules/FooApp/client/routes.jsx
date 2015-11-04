@@ -1,5 +1,5 @@
-import App from './App';
-import Home from './Home';
+import App from '../modules/app/components/App';
+import Home from '../modules/home/components/Home';
 
 export default {
   path: '/',

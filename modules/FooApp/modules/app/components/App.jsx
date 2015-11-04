@@ -5,6 +5,10 @@ export default class App extends Component {
     children: PropTypes.any.isRequired
   };
 
+  componentWillMount() {
+    require('../client/styles/App.import.css');
+  }
+
   render() {
     return (
       <div className="foo-app">

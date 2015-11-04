@@ -1,5 +1,5 @@
-import App from './App';
-import Dashboard from './Dashboard';
+import App from '../modules/app/components/App';
+import Dashboard from '../modules/dashboard/components/Dashboard';
 
 export default {
   component: App,
