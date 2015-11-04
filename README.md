@@ -2,7 +2,7 @@
 
 This project is a variation/fork of <a href="https://github.com/thereactivestack/kickstart-simple">`kickstart-simple`</a> and <a href="https://github.com/thereactivestack/kickstart-hugeapp">`kickstart-hugeapp`</a>.
 
-It is intended to be a very clean, simple base to start a large project (simpler than the other kickstarts, but providing a good base for a larger project). Please reference the other kickstarts for more detailed info on advanced topics such as code splitting, reactive data integration with Meteor, and how this all works.
+It is intended to be a very clean, simple base to start a large project using Meteor, React and Webpack (simpler than the other kickstarts, but providing a good base for a larger project). Please reference the other kickstarts for more detailed info on advanced topics such as code splitting, reactive data integration with Meteor, and how this all works.
 
 ## Get Started
 
